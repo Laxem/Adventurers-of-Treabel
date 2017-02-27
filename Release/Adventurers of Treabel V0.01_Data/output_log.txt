@@ -1,0 +1,1128 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 635M    (ID=0xde3)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+    Driver:   9.18.13.4052
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.076 seconds
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3520x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.996004 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1a34 -> priority: 1 
+  Thread -> id: ad0 -> priority: 1 
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 635M    (ID=0xde3)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+    Driver:   9.18.13.4052
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.079 seconds
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3520x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.240183 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1ab8 -> priority: 1 
+  Thread -> id: 1768 -> priority: 1 
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 635M    (ID=0xde3)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+    Driver:   9.18.13.4052
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.081 seconds
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Mael\A moi\Unity\Adventurers of Treabel\Release\Adventurers of Treabel V0.01_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3520x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.835641 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 17cc -> priority: 1 
+  Thread -> id: 1724 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.520888 ms
+Init Height 1.75 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+weap pos (-0.1, 0.1, 0.0) (-0.1, 0.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+lcoal pos (-0.1, 0.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-97.3, -102.1, 211.3) (-4.4, 2.6, 2.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(0.2, 0.6, 0.0) Hand.R
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3081.
+Total: 11.102662 ms (FindLiveObjects: 0.269837 ms CreateObjectMapping: 0.157369 ms MarkObjects: 10.602758 ms  DeleteObjects: 0.071414 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.361764 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2008.
+Total: 1.513824 ms (FindLiveObjects: 0.197566 ms CreateObjectMapping: 0.196284 ms MarkObjects: 1.072506 ms  DeleteObjects: 0.046184 ms)
+
+Init Height 1.75 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+weap pos (-0.1, 0.1, 0.0) (-0.1, 0.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+lcoal pos (-0.1, 0.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-97.3, -102.1, 211.3) (-4.4, 2.6, 2.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(0.2, 0.6, 0.0) Hand.R
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Init Height 1.75 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+weap pos (-0.1, 0.1, 0.0) (-0.1, 0.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+lcoal pos (-0.1, 0.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(145.3, -99.6, -123.3) (-4.4, 2.6, 2.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-15.5, 3.1, 44.9) Hand.R
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Init Height 1.75 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+weap pos (-0.1, 0.1, 0.0) (-0.1, 0.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+lcoal pos (-0.1, 0.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(-97.3, -102.1, 211.3) (-4.4, 2.6, 2.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(0.2, 0.6, 0.0) Hand.R
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+First Contact Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DAMAGE ! 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Current life 96
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generaCedolommon/der -1278 ebulayer
+ 
+(sFgene.amcppC: buiildsl1av
+
+e/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 Weapon
+ o
+(Filelndem -e2:8 P:lbuiadyer
+e unt(Fi/bunaield/artiilfsaavte/unityatedil//common/ru/gnneimr/Dtedugcoindin/rungeim.cp/D Line: 51)
+
+s.genCcpllLderne-: 06 1)W
+
+eapon
+ 
+(Filename: C:/buildslave/unity/builC/arltdefac1t7s/Player
+ 
+(Filenam/r: nC:/buildslavedinunity/builpd/areti51)
+
+s/geCeratate d/cattack
+ un
+tFilename: C:/buings.gen.cnity /ine: 51)
+
+ifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+First Contact Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Colliderlist content -1292
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Colliderlist content -5506
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 WeCpoo
+l
+(Fdelena-6e30C:/4u Weapon
+ 
+/uineity/buil/du/artifacts/gtyneburldtear/ifactmongenueriatedebcogBindirgsn.gme/Deb ugBind5ing
+s
+.genCollider - 55)
+0
+6 Ceallon
+ 
+(File6 ameap on/
+ il
+(dslaveme/ C:itbuildslavaetif/ctunieneyrbuteld/crtifact/s/unntime/DebugBindings.gen.cpp Line: 51)gen.cp 
+Line: 51)
+
+Collider -1278 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1278 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 Weapon
+ 
+(FiCenomel: er /-6304 lWvapon
+ 
+(Fie/unity:buC:/d/autifactlase//nieneruila/ted/common/runtatmeeDebucommongruindings/Dgeb.cBipdpn s.gei.cpp 5Li1e:)51
+
+)
+
+ColCiderid r 53356 W eaappn
+ 
+ 
+(F
+(Fleleamame:eC:/ C:ibldulaldsunity/unity/buuildlartiafacts/tg/genenaeedratmed/common/r/Dneimeug/iDebugsBien.ingp .Lien.c pp L
+i
+ne: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+First Contact Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DAMAGE ! 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Current life 92
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+First Contact Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Colliderlist content -1292
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Colliderlist content -5506
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1278 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+First Contact Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DAMAGE ! 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Current life 88
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+First Contact Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+Co
+llidename:rC:/-b196 Playve/u
+n
+(Filename: C:/ifuildslavee/aunity/build/artifa/cts/gBeniraded/cogmo.nen/crpuLnntime1)
+/
+DebugBilnided -55s.6e6.cpp Line
+:
+ Filena5e: C
+:
+/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CCntatlcdein  a1tt Pcaykr
+ 
+(FFileename: :/C:/bduilvdsuaveitun/iutld/bartdiaftafccts/ge/egaeeneratmen/corunmoimeruDebugBindi/gs.bugBindings.g: e1)n
+
+.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Cilellndemer C /-ui19l Psllaver/ui 
+(Filednameif Cc:/bguneratlaee/ucoitmyn/build/nartifaebcgts/genesrate.dpp/Lice:mmo /r1)
+
+ime/DCbollider -5566 Weap Lonn: 
+5
+1Fil
+e
+name: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Filename: C:/buildClaoe/lnityde/ -u196 Playifr
+ 
+(/gFniernamed: cCm:/n/uiuldslave/unity/build/artifactLi/nenerate /com
+
+on/runtCme/DeidugB -5dings.gen.cp
+p 
+Line: 51)
+
+C:/buildslave/unity/build/artifacts/generated/common/runtimC/Dllbugerindings.genye.
+ 
+( Linena:e:51)
+
+buildClalleider -5bu5ld6 Weapfonts/g
+ner
+(ated/coemmon/runtimea/DebugBindings.geti.fpp Lits/e: nerat
+
+ed/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collideder -3398laPlaye
+r
+(
+ le
+namle: C:/bui/ludsllave/unity/b/buid/d/tirtacti/fancrated/commatn/rend/common/runtime/Degeb.cgBpnp Lginee: cpp)
+
+ine:Co1ll
+
+iCollider -5566 r
+ 
+(Fi
+ 
+(Fmele Cn/bamldslavCe/unitdslyve/unildy/builifdctartifacts/gdnecraten/duntime/DebugBindings.gen.cpp Line: 51)
+
+ Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+COntatc in attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Colliderlist content -1292
+ 
+(FilCnamo: liCer -4196s avePuliay/yur
+d/a
+(Ftifancts/ge:/erauieldsommon/runty/iuild/artiBiacts/generated/commeo n/)
+
+time/DlledeugBisn contenings5.06
+ 
+(Fp Line: : 1)
+
+buildslCollidetr/b-12ld/arPlifact
+s
+(Fileeamatee/c C:mmbuildslavme//unigBy/bdungs.gen.cpp Line: 51a
+
+ed/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -4196 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1C78ollider
+r
+ -3398 Pl: C:/byeru
+ 
+lFilesaleve:un ty/bbuilds/altavects/generated/cotifmon/runtime/Ded/cugmminndrungsimge/DnbugBpn inLsigen:.5c)
+
+ Line: 51)
+
+Collider -5566 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp LCnellide1)
+
+4196 Player
+d
+(Fil-ename: ay:/r
+ b
+(uildslav: C:/ity/blusiave/urtnfity//geneld/artcomfoncts/ngienerated/commngs.g/eu.cppimLinDe: 51)
+
+dings.CenocllidLr n-1278 P
+
+layer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(FileCollede  -C19/6u ldslavr
+ 
+(niilename: /a:/tifalcstsvegeneray/ed/boumon//artunfaice/DebtgBsnd/ggeneratepd /Lomione: untim
+e
+/DebugBoliiner ng-.g56.cpWpaponne:
+ 
+(Fil
+
+enaolle: eC -/b1ilds8 avP/laity/bu
+i
+(Fi/aename: C:/buildslavd/ce/uon/ruitt/biile/debartgBindcitn/gsn.gen.cppc mmon/r 51)t
+
+e/DebuglBindings.06 Wn.cpppn
+  
+(LiFeil e1n
+
+me: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Filenamoll Cde: -build Psayave/
+u
+nity/buile/a Ct:/acbsuildslerated/co/bmilm/ort/runttsigmnerated/cindmmngn.gen.cimp/pebuLgBe:i5n)
+
+ngs.geC.clp Line: 51)6
+
+6 Weapoider
+ -
+(Filenamer
+:
+(Filbuilde: aC:/buildslavle/untiy/abuild/artited/common/runtedmco/Deb/rgBiime/DebugBincpipgs.iene.c 5pp
+
+ LiCo:ll1)d
+e
+r -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -4196 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3-41968 Pl yer
+ l
+(Fil
+e
+(nilee:ame:/:uilCd/blaivds/laitv/euiundityt/fbctu/ienerated/actsmoge/nunraiee/DebugBi/rndiime/DnbgsBindgegn.gen.cpcp Linee: 5 )
+
+)
+
+CoClilleder 5-1278 Playe
+r
+ Fi
+(Fienename: C:/buidslavlave/nuty/builuidd//rrtifacts//eneenrrated/ccommon/runtimi/meebubugBiindings.gen.n.c Lpne L51)
+
+ 51)
+
+Collider -5506 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1292 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -4196 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1278 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3398 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -5566 Weapon
+ 
+(Filename: C:/buildsCole/ulity/rui d/4196ifPlcas/yener
+ 
+(Filename: C:/be/DeslavebuuitByn/ibgsil.garnif.ctspgpnerate:/co m5n/)r
+u
+ntime/lliderD-e5b6 Weapon
+ 
+(File.cpapeLin e:/b51il
+d
+slavC/ulliiety-127ild/alryeif
+ c
+(Fgileratee: C:/buin/ldstiamv/e/ebugtB/bndings.genfa.tc/gepe Lined: com5on/r
+
+untime/DebugBindings.gen.cpp Line: 51)
+
+Collider -4196 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1278 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -4196 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1278 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -4196 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1278 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -4196 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -6304 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -3386 Weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1278 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider -1278 Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attack
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
